@@ -1,6 +1,6 @@
 [book]
 authors = ["Caio-RB"]
-language = "en"
+language = "pt-br"
 multilingual = false
 src = "src"
 title = "TermuxLab - Wiki"
